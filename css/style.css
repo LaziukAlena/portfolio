@@ -142,8 +142,9 @@ body {
 }
 
 .projects-slide {
-  align-items: flex-start;
   display: flex;
+  align-items: flex-start;
+
   justify-content: space-between;
 }
 
@@ -193,10 +194,10 @@ body {
 }
 
 .projects-pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 44px;
 }
 
 .projects-bullet {
@@ -210,10 +211,8 @@ body {
 }
 
 .projects-bullet-active {
-    background-color: #ffbb01;
-
+  background-color: #ffbb01;
 }
-
 
 .contacts-form {
   box-shadow: -5px 5px 0 0 #ffc41d;
